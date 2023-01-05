@@ -1,2 +1,2 @@
 # quote_machine
-Quote Machine
+Quote Machine for freeCodeCamp
